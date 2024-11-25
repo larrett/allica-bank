@@ -54,7 +54,7 @@ use that for the scope of the unit-testing and tear it down afterwards.
 ensuring the database is providing the correct response once it has been deployed.
 
 - **E2E Tests** I would also normally include additional end-to-end tests, to ensure the full flow of the application
-- is working as expected once it has been deployed, but that isn't necesary for a PoC application of this size.
+is working as expected once it has been deployed, but that isn't necesary for a PoC application of this size.
 
 # Production Considerations
 
